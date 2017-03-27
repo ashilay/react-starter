@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`render Hellow World text 1`] = `
+exports[`App render Hellow World text 1`] = `
 <div
   style={
     Object {
@@ -9,7 +9,9 @@ exports[`render Hellow World text 1`] = `
   }
 >
   <h1>
-    Hello World!
+    Hello, 
+    John Doe
+    !
   </h1>
 </div>
 `;
