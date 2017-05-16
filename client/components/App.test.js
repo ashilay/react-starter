@@ -29,4 +29,3 @@ describe('App', () => {
         expect(sut.getFullName()).toBe(name + ' ' + sername);
     });
 });
-

@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App.jsx';
+import App from './components/App';
 
 ReactDOM.render(
-    <App name='John' sername='Doe'/>,
-    document.getElementById('root')
+    /*eslint-disable*/
+    <App name="John" sername="Doe" />,
+    document.getElementById('root'),
 );
+
